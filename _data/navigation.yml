@@ -1,5 +1,11 @@
 header:
   - titles:
+      en:       Home
+      zh:       首页
+      zh-Hans:  首頁
+      zh-Hant:  歸檔
+    url:        /Blog/zh/quick-start
+  - titles:
       en:       Archive
       zh:       归档
       zh-Hans:  归档
